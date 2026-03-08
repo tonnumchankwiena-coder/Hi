@@ -5,7 +5,7 @@ from discord.ui import View, Button
 import logging
 
 # ===== ตั้งค่า =====
-BOT_TOKEN = "MTQ3NzA5MzczMjM3MjQ1MTM1OQ.G3JVlU.49n92zBs7-lVoxofjg9bqSJ_se8RBo2atdO5nE"
+BOT_TOKEN = "PUT_YOUR_TOKEN_HERE"
 
 LOG_CHANNEL_ID = 1477605018008817736
 SPECIAL_ROLE_ID = 1477602425190879345
